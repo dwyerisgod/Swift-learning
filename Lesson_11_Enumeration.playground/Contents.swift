@@ -123,11 +123,12 @@ func coloursIntoObjects (colour: Rainbow) {
     }
 }
 
-//var str = coloursIntoObjects(colour: Rainbow.red)
+var str = coloursIntoObjects(colour: Rainbow.red)
 
 print("")
 
 // Exercise 4. Создать функцию, которая выставляет оценки ученикам в школе.
+print("\tExercise 3")
 
 enum grades { case five, four, three, two, one }
 
