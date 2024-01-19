@@ -1,3 +1,5 @@
+// Arrays learning
+
 let constArray = ["a", "b", "c", "d"]
 
 constArray.count
