@@ -1,0 +1,96 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0D70BC1D2B51407F00C4FFE5 /* Lesson_10_Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_10_Closures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0D70BC1F2B52D76300C4FFE5 /* Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumeration.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DDF86C12B5429B000FA9D6F /* Lesson_2_Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_2_Types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DDF86C22B54401500FA9D6F /* Lesson_3_Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_3_Strings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DDF86C32B54490300FA9D6F /* Lesson_4_Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_4_Arrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EED2B4AEF5F00EE9190 /* a_swift_tour.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = a_swift_tour.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EEE2B4C0A9D00EE9190 /* Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Sets.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EEF2B4C0CAE00EE9190 /* Lesson_5_Dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_5_Dictionary.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EF02B4C0EA700EE9190 /* Lesson_6_Tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_6_Tuple.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EF12B4D5B3600EE9190 /* Lesson_7_Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_7_Optional.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EF22B4D72BB00EE9190 /* Lesson_8_If, for, while, switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lesson_8_If, for, while, switch.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DEC5EF32B4D793A00EE9190 /* Lesson_9_Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_9_Functions.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0DEC5EE62B4AEF4400EE9190 = {
+			isa = PBXGroup;
+			children = (
+				0DDF86C32B54490300FA9D6F /* Lesson_4_Arrays.playground */,
+				0DDF86C22B54401500FA9D6F /* Lesson_3_Strings.playground */,
+				0DDF86C12B5429B000FA9D6F /* Lesson_2_Types.playground */,
+				0D70BC1F2B52D76300C4FFE5 /* Enumeration.playground */,
+				0D70BC1D2B51407F00C4FFE5 /* Lesson_10_Closures.playground */,
+				0DEC5EF32B4D793A00EE9190 /* Lesson_9_Functions.playground */,
+				0DEC5EF22B4D72BB00EE9190 /* Lesson_8_If, for, while, switch.playground */,
+				0DEC5EF12B4D5B3600EE9190 /* Lesson_7_Optional.playground */,
+				0DEC5EF02B4C0EA700EE9190 /* Lesson_6_Tuple.playground */,
+				0DEC5EEF2B4C0CAE00EE9190 /* Lesson_5_Dictionary.playground */,
+				0DEC5EEE2B4C0A9D00EE9190 /* Sets.playground */,
+				0DEC5EED2B4AEF5F00EE9190 /* a_swift_tour.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0DEC5EE72B4AEF4400EE9190 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = 0DEC5EEA2B4AEF4400EE9190 /* Build configuration list for PBXProject "swiftlearning" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0DEC5EE62B4AEF4400EE9190;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0DEC5EEB2B4AEF4400EE9190 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0DEC5EEC2B4AEF4400EE9190 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0DEC5EEA2B4AEF4400EE9190 /* Build configuration list for PBXProject "swiftlearning" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0DEC5EEB2B4AEF4400EE9190 /* Debug */,
+				0DEC5EEC2B4AEF4400EE9190 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0DEC5EE72B4AEF4400EE9190 /* Project object */;
+}
