@@ -33,8 +33,8 @@ print("\tExercise 1.")
 
 class IOSStudents {
     static let minAge = 18
-    var firstName: String
-    var secondName: String
+    var firstName = String ()
+    var secondName = String ()
     
     var fullName: String {
         get {
@@ -50,16 +50,12 @@ class IOSStudents {
             }
         }
     }
-    
-    init(firstName: String, secondName: String, age: Int) {
-        self.firstName = firstName
-        self.secondName = secondName
-        self.age = age
-    }
 }
 
-var student1 = IOSStudents(firstName: "Kiril", secondName: "Turov", age: 16)
-
+var student1 = IOSStudents()
+student1.firstName = "Kiril"
+student1.secondName = "Turov"
+student1.age = 18
 student1.fullName
 print(student1.age)
 
