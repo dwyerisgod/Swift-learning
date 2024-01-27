@@ -23,12 +23,14 @@
 		0DFEC6322B5D687000D1DC37 /* Lesson_13&14_Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lesson_13&14_Properties.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DFEC6332B5D707100D1DC37 /* Lesson_15_Subscript.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_15_Subscript.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DFEC6472B5EB6B900D1DC37 /* Lesson_13&14_Properties_2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lesson_13&14_Properties_2.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DFEC65B2B611CE000D1DC37 /* Lesson_16_Inheritance.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_16_Inheritance.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		0DEC5EE62B4AEF4400EE9190 = {
 			isa = PBXGroup;
 			children = (
+				0DFEC65B2B611CE000D1DC37 /* Lesson_16_Inheritance.playground */,
 				0DFEC6472B5EB6B900D1DC37 /* Lesson_13&14_Properties_2.playground */,
 				0DFEC6332B5D707100D1DC37 /* Lesson_15_Subscript.playground */,
 				0DFEC6322B5D687000D1DC37 /* Lesson_13&14_Properties.playground */,
