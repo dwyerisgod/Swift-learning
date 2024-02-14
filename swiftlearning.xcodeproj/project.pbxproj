@@ -10,6 +10,8 @@
 		0D70BC1D2B51407F00C4FFE5 /* Lesson_10_Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_10_Closures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0D70BC1F2B52D76300C4FFE5 /* Lesson_11_Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_11_Enumeration.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0D8DF11D2B5BE43000AF5846 /* Lesson_12_Classes_Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_12_Classes_Structures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DC7F6C72B7A65B600C70FE0 /* Lesson_17_ARC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_17_ARC.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DC7F6C82B7CC88A00C70FE0 /* Lesson_17_ARC_Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_17_ARC_Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DDF86C12B5429B000FA9D6F /* Lesson_2_Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_2_Types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DDF86C22B54401500FA9D6F /* Lesson_3_Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_3_Strings.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DDF86C32B54490300FA9D6F /* Lesson_4_Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_4_Arrays.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -30,6 +32,8 @@
 		0DEC5EE62B4AEF4400EE9190 = {
 			isa = PBXGroup;
 			children = (
+				0DC7F6C82B7CC88A00C70FE0 /* Lesson_17_ARC_Exercises.playground */,
+				0DC7F6C72B7A65B600C70FE0 /* Lesson_17_ARC.playground */,
 				0DFEC65B2B611CE000D1DC37 /* Lesson_16_Inheritance.playground */,
 				0DFEC6472B5EB6B900D1DC37 /* Lesson_13&14_Properties_2.playground */,
 				0DFEC6332B5D707100D1DC37 /* Lesson_15_Subscript.playground */,

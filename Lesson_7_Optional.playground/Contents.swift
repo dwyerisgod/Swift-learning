@@ -56,3 +56,34 @@ let ageOfAllFamily = [18, 11, 37, 38]
 for _ in ageOfAllFamily {
     print("Ages of all family is - \(ageOfAllFamily)")
 }
+
+// You are building a simple registration form for a mobile app. Your form collects the user's name, email, and age. However, not all fields are required. Create a Swift program that prompts the user to enter their name, email, and age, handling optional input for each field. After collecting the input, display the information back to the user.
+
+struct Person {
+    var name: String?
+    var age: Int?
+    var email: String?
+    
+    func info() {
+        
+        if name != nil {
+            print("\nThe name of the user is \(name!)!")
+        } else {
+            print("\nThe name of the user is unknown!")
+        }
+        
+        if age != nil {
+            print("\nThe age of the person is \(age!)!")
+        } else {
+            print("\nThe age of the person is unknown!")
+        }
+        
+        print("\nEmail is private information")
+    }
+}
+
+var person1 = Person(name: "Jack", age: 18)
+person1.info()
+var person2 = person1
+person2.name = "Oskana"
+person2.info()
