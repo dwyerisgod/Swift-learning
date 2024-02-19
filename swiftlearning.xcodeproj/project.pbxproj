@@ -11,6 +11,8 @@
 		0D70BC1F2B52D76300C4FFE5 /* Lesson_11_Enumeration.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_11_Enumeration.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0D8DF11D2B5BE43000AF5846 /* Lesson_12_Classes_Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_12_Classes_Structures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DBD80942B7FC2BD00D254F0 /* Lesson_18_Type_Coasting_&_Nested_Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Lesson_18_Type_Coasting_&_Nested_Types.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DBD80952B8374E700D254F0 /* Lesson_19_Extension.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_19_Extension.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		0DBD80962B8378D400D254F0 /* Lesson_19_Extension_Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_19_Extension_Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DC7F6C72B7A65B600C70FE0 /* Lesson_17_ARC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_17_ARC.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DC7F6C82B7CC88A00C70FE0 /* Lesson_17_ARC_Exercises.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_17_ARC_Exercises.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		0DDF86C12B5429B000FA9D6F /* Lesson_2_Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson_2_Types.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
@@ -33,6 +35,8 @@
 		0DEC5EE62B4AEF4400EE9190 = {
 			isa = PBXGroup;
 			children = (
+				0DBD80962B8378D400D254F0 /* Lesson_19_Extension_Exercises.playground */,
+				0DBD80952B8374E700D254F0 /* Lesson_19_Extension.playground */,
 				0DBD80942B7FC2BD00D254F0 /* Lesson_18_Type_Coasting_&_Nested_Types.playground */,
 				0DC7F6C82B7CC88A00C70FE0 /* Lesson_17_ARC_Exercises.playground */,
 				0DC7F6C72B7A65B600C70FE0 /* Lesson_17_ARC.playground */,
