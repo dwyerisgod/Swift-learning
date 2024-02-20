@@ -410,6 +410,48 @@
 			<key>orderHint</key>
 			<integer>23</integer>
 		</dict>
+		<key>Lesson_20_Generics (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>Lesson_20_Generics (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>Lesson_20_Generics (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>Lesson_20_Generics_Exercises (Playground) 1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>Lesson_20_Generics_Exercises (Playground) 2.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>Lesson_20_Generics_Exercises (Playground).xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
 		<key>Lesson_2_Types (Playground).xcscheme</key>
 		<dict>
 			<key>isShown</key>
